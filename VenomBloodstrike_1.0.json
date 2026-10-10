@@ -1,0 +1,11 @@
+{
+  "showDialog": true,
+  "title": "Venom BLOODSTRIKE V1.0",
+  "message": "Official channel only.\n\nTelegram: https://t.me/blood_strike_mmd\nOwner: @mrmamadtm",
+  "showCloseButton": true,
+  "showUpdateButton": true,
+  "UpdateButtonText": "Join Channel",
+  "UpdateButtonUrl": "https://t.me/blood_strike_mmd",
+  "channel": "free",
+  "version": "1.0"
+}
